@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "company": "Zoom",
+    "source": "g2",
+    "start_date": "2023-01-01",
+    "end_date": "2023-12-31",
+    "total_reviews": 2,
+    "scraped_at": "2025-09-26T16:22:51.255934"
+  },
+  "reviews": [
+    {
+      "title": "Review",
+      "description": "User-friendly interface with simple meeting setup and joining process.",
+      "date": "Unknown",
+      "rating": null,
+      "reviewer_name": "Anonymous",
+      "reviewer_info": "Not specified",
+      "source": "G2"
+    },
+    {
+      "title": "Review",
+      "description": "Zoom Workplace is extremely reliable for video conferencing, team meetings, and webinars. The interface is simple and user-friendly, making it easy for anyone to join or host a meeting without technical issues. I especially like the high-quality video and audio, breakout rooms for group discussions, and the ability to record sessions for later use. Its integrations with calendars, project management tools, and collaboration apps make daily workflows smoother. The platform also works consistently across devices, which is very convenient. Review collected by and hosted on G2.com.",
+      "date": "Unknown",
+      "rating": null,
+      "reviewer_name": "Anonymous",
+      "reviewer_info": "Not specified",
+      "source": "G2"
+    }
+  ]
+}

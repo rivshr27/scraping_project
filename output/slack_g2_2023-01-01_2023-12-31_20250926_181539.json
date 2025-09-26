@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "company": "Slack",
+    "source": "g2",
+    "start_date": "2023-01-01",
+    "end_date": "2023-12-31",
+    "total_reviews": 10,
+    "scraped_at": "2025-09-26T18:15:39.464482"
+  },
+  "reviews": [
+    {
+      "title": "Review",
+      "description": "The software's ease of use, its quick integration of new employees and clients, and its evident dedication to user experience all combine to make Slack a fantastic workplace collaboration tool. The software is easy to implement and integrates with any kind of single sign-on system. It has a dedicated support system that allows for daily use and easy implementation with minimal skill and staffing required. The backside analytics are also phenomenal and enable you to see where and what your workforce is collaborating on. Review collected by and hosted on G2.com.",
+      "date": "Unknown",
+      "rating": null,
+      "reviewer_name": "Anonymous",
+      "reviewer_info": "Not specified",
+      "source": "G2"
+    },
+    {
+      "title": "Review",
+      "description": "Easy to use, Easy to create channels, adding people in to chats. Calling via huddle is very easy and screen sharing is easy as well. You can create channels with extrenal users outside your organization as well. Overall a good collaboration platform Review collected by and hosted on G2.com.",
+      "date": "Unknown",
+      "rating": null,
+      "reviewer_name": "Anonymous",
+      "reviewer_info": "Not specified",
+      "source": "G2"
+    },
+    {
+      "title": "Review",
+      "description": "Slack is a AI based user interface with real time instant messaging and communicating abilities.",
+      "date": "Unknown",
+      "rating": null,
+      "reviewer_name": "Anonymous",
+      "reviewer_info": "Not specified",
+      "source": "G2"
+    },
+    {
+      "title": "Review",
+      "description": "Slack UI is musch better than the counterparts like MS-teams. It is made keeping in mind the young-userbase mindset.",
+      "date": "Unknown",
+      "rating": null,
+      "reviewer_name": "Anonymous",
+      "reviewer_info": "Not specified",
+      "source": "G2"
+    },
+    {
+      "title": "Review",
+      "description": "What I find most useful and valuable with Slack is that it can bring centralization of communication and context. Rather than being reliant on fragmented email threads, all conversations, files, and decisions for a project reside in a designated channel. This provides a single source of truth that is immediately searchable and accessible to all members of the team, whether new or senior managers.",
+      "date": "Unknown",
+      "rating": null,
+      "reviewer_name": "Anonymous",
+      "reviewer_info": "Not specified",
+      "source": "G2"
+    },
+    {
+      "title": "Review",
+      "description": "What i like best about Slack is how simple it makes communication across our organization.",
+      "date": "Unknown",
+      "rating": null,
+      "reviewer_name": "Anonymous",
+      "reviewer_info": "Not specified",
+      "source": "G2"
+    },
+    {
+      "title": "Review",
+      "description": "What I like best about Slack is how it keeps team communication organized and real-time, making collaboration much easier. The ability to create channels for different projects or topics helps reduce email clutter and keeps conversations focused. I also appreciate the integrations with other tools we use, which streamline workflows and keep everything connected in one place.\" Review collected by and hosted on G2.com.",
+      "date": "Unknown",
+      "rating": null,
+      "reviewer_name": "Anonymous",
+      "reviewer_info": "Not specified",
+      "source": "G2"
+    },
+    {
+      "title": "Review",
+      "description": "The most important thing I love about using Slack is how organised the platform/UI is. It helps me instantly connect with my colleagues/Teams without getting into any challenges/blockers.",
+      "date": "Unknown",
+      "rating": null,
+      "reviewer_name": "Anonymous",
+      "reviewer_info": "Not specified",
+      "source": "G2"
+    },
+    {
+      "title": "Review",
+      "description": "Slack stands out for its ease of use and quick adoption—our team of developers and data engineers picked it up instantly without heavy onboarding. We rely on it daily across the company thanks to its wide range of features, from channels and huddles to integrations with Jira, GitHub, and other tools we use constantly. Implementation was simple, and the customer support has been responsive whenever needed. Its flexibility and integrations make it the hub where all our technical conversations and workflows come together. Review collected by and hosted on G2.com.",
+      "date": "Unknown",
+      "rating": null,
+      "reviewer_name": "Anonymous",
+      "reviewer_info": "Not specified",
+      "source": "G2"
+    },
+    {
+      "title": "Review",
+      "description": "I feel like Slack is becoming an industry standard, with more and more companies switching to it. That shift makes cross company collaboration much easier honestly. I had never used Slack before joining this company four years ago and I’ve come to really appreciate its communication model. I use it every day Review collected by and hosted on G2.com.",
+      "date": "Unknown",
+      "rating": null,
+      "reviewer_name": "Anonymous",
+      "reviewer_info": "Not specified",
+      "source": "G2"
+    }
+  ]
+}

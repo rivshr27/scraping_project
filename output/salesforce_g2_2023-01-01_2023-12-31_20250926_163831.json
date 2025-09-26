@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "company": "Salesforce",
+    "source": "g2",
+    "start_date": "2023-01-01",
+    "end_date": "2023-12-31",
+    "total_reviews": 3,
+    "scraped_at": "2025-09-26T16:38:31.418438"
+  },
+  "reviews": [
+    {
+      "title": "Review",
+      "description": "I appreciate the overall setup of the system, including its layout and the way it integrates with other platforms. The detailed reporting also stands out, as it allows you to delve deeply into the data. Customer support has always ben great and we use this everyday! Review collected by and hosted on G2.com.",
+      "date": "Unknown",
+      "rating": null,
+      "reviewer_name": "Anonymous",
+      "reviewer_info": "Not specified",
+      "source": "G2"
+    },
+    {
+      "title": "Review",
+      "description": "Is the platform I open first thing in the morning and the last I close in the afternoon. I check my sales, my client's info, feedback on each meeting, useful information on every aspect of my business. It is very easy to use and it integrates perfectly with other platforms. Customer support is easy to access, they are friendly and fast. I use salesforce everyday, it more than my notbook or my agenda, is mi assitent Review collected by and hosted on G2.com.",
+      "date": "Unknown",
+      "rating": null,
+      "reviewer_name": "Anonymous",
+      "reviewer_info": "Not specified",
+      "source": "G2"
+    },
+    {
+      "title": "Review",
+      "description": "As someone who lives and breathes in Salesforce every single day, thia platform's sheer power and customizability are what I appreciate most. The ability to build custom objects, automate complex workflows with Flow, and create detailed reports and dashboards is a game-changer. It's not just a CRM; it's a flexible business operating system that can be molded to fit almost any process. The analytics tools, especially, are top-notch and give me real-time insights into our sales pipeline and customer data. Review collected by and hosted on G2.com.",
+      "date": "Unknown",
+      "rating": null,
+      "reviewer_name": "Anonymous",
+      "reviewer_info": "Not specified",
+      "source": "G2"
+    }
+  ]
+}

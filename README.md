@@ -21,8 +21,8 @@ The scraper uses **Selenium** to automate a real web browser, allowing it to han
 
 ## Current Scraping Status
 
-- ✅ **G2**: **Working**. Successfully extracts real review content.
-- ⚠️ **Capterra & TrustRadius**: **Blocked**. These sites have more aggressive anti-bot measures that require advanced solutions like proxy rotation or CAPTCHA-solving services. The scraper can find the product pages but is blocked from extracting reviews.
+-  **G2**: **Working**. Successfully extracts real review content.
+-  **Capterra & TrustRadius**: **Blocked**. These sites have more aggressive anti-bot measures that require advanced solutions like proxy rotation or CAPTCHA-solving services. The scraper can find the product pages but is blocked from extracting reviews.
 
 ## Installation
 
